@@ -136,6 +136,7 @@
 ### Javascript
 
 * [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 
 ### jQuery
@@ -200,7 +201,6 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
-* [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
 ### Perl
